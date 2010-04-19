@@ -1,0 +1,60 @@
+[submodule "Ruby - Haml.tmbundle"]
+	path = Ruby - Haml.tmbundle
+	url = git://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "HTML.tmbundle"]
+	path = HTML.tmbundle
+	url = git://github.com/textmate/html.tmbundle.git
+[submodule "JavaScript - JQuery.tmbundle"]
+	path = JavaScript - JQuery.tmbundle
+	url = git://github.com/textmate/javascript-jquery.tmbundle.git
+[submodule "Javascript - Prototype and Scriptaculous.tmbundle"]
+	path = Javascript - Prototype and Scriptaculous.tmbundle
+	url = git://github.com/textmate/javascript-prototype-and-script.aculo.us.tmbundle.git
+[submodule "Objective-C.tmbundle"]
+	path = Objective-C.tmbundle
+	url = git://github.com/textmate/objective-c.tmbundle.git
+[submodule "LaTeX.tmbundle"]
+	path = LaTeX.tmbundle
+	url = git://github.com/textmate/latex.tmbundle.git
+[submodule "CSS.tmbundle"]
+	path = CSS.tmbundle
+	url = git://github.com/textmate/css.tmbundle.git
+[submodule "SQL.tmbundle"]
+	path = SQL.tmbundle
+	url = git://github.com/textmate/sql.tmbundle.git
+[submodule "C.tmbundle"]
+	path = C.tmbundle
+	url = git://github.com/textmate/c.tmbundle.git
+[submodule "Markdown.tmbundle"]
+	path = Markdown.tmbundle
+	url = git://github.com/textmate/markdown.tmbundle.git
+[submodule "XCode.tmbundle"]
+	path = XCode.tmbundle
+	url = git://github.com/textmate/xcode.tmbundle.git
+[submodule "JSON.tmbundle"]
+	path = JSON.tmbundle
+	url = git://github.com/textmate/json.tmbundle.git
+[submodule "Ruby - RSpec.tmbundle"]
+	path = Ruby - RSpec.tmbundle
+	url = git://github.com/textmate/ruby-rspec.tmbundle.git
+[submodule "JavaScript.tmbundle"]
+	path = JavaScript.tmbundle
+	url = git://github.com/textmate/javascript.tmbundle.git
+[submodule "Diff.tmbundle"]
+	path = Diff.tmbundle
+	url = git://github.com/textmate/diff.tmbundle.git
+[submodule "Scheme.tmbundle"]
+	path = Scheme.tmbundle
+	url = git://github.com/textmate/scheme.tmbundle.git
+[submodule "Shell Script (Bash).tmbundle"]
+	path = Shell Script (Bash).tmbundle
+	url = git://github.com/textmate/shellscript.tmbundle.git
+[submodule "TODO.tmbundle"]
+	path = TODO.tmbundle
+	url = git://github.com/textmate/todo.tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git://github.com/textmate/ruby.tmbundle.git
+[submodule "TextMate.tmbundle"]
+	path = TextMate.tmbundle
+	url = git://github.com/textmate/textmate.tmbundle.git
