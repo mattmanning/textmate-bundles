@@ -64,3 +64,6 @@
 [submodule "JavaScript - Prototype and Scriptaculous.tmbundle"]
 	path = JavaScript - Prototype and Scriptaculous.tmbundle
 	url = git://github.com/textmate/javascript-prototype-and-script.aculo.us.tmbundle.git
+[submodule "Javascript - Tools.tmbundle"]
+	path = Javascript - Tools.tmbundle
+	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
