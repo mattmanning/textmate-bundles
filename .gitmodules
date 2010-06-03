@@ -60,4 +60,4 @@
 	url = git://github.com/textmate/textmate.tmbundle.git
 [submodule "Ruby - Rails.tmbundle"]
 	path = Ruby - Rails.tmbundle
-	url = git://github.com/textmate/ruby-on-rails.tmbundle.git
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
