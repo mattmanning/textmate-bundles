@@ -61,3 +61,6 @@
 [submodule "Ruby - RSpec.tmbundle"]
 	path = Ruby - RSpec.tmbundle
 	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/jcf/git-tmbundle.git
