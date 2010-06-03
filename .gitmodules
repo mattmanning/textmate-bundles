@@ -4,9 +4,6 @@
 [submodule "HTML.tmbundle"]
 	path = HTML.tmbundle
 	url = git://github.com/textmate/html.tmbundle.git
-[submodule "JavaScript - JQuery.tmbundle"]
-	path = JavaScript - JQuery.tmbundle
-	url = git://github.com/textmate/javascript-jquery.tmbundle.git
 [submodule "Javascript - Prototype and Scriptaculous.tmbundle"]
 	path = Javascript - Prototype and Scriptaculous.tmbundle
 	url = git://github.com/textmate/javascript-prototype-and-script.aculo.us.tmbundle.git
@@ -64,3 +61,6 @@
 [submodule "Git.tmbundle"]
 	path = Git.tmbundle
 	url = git://github.com/jcf/git-tmbundle.git
+[submodule "JavaScript - jQuery.tmbundle"]
+	path = JavaScript - jQuery.tmbundle
+	url = git://github.com/kswedberg/jquery-tmbundle.git
