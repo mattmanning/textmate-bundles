@@ -67,3 +67,6 @@
 [submodule "Javascript - Tools.tmbundle"]
 	path = Javascript - Tools.tmbundle
 	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "Ruby - Sass.tmbundle"]
+	path = Ruby - Sass.tmbundle
+	url = git://github.com/charlesr/ruby-sass-tmbundle.git
