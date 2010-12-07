@@ -70,9 +70,9 @@
 [submodule "Ruby - Cucumber.tmbundle"]
 	path = Ruby - Cucumber.tmbundle
 	url = git://github.com/aslakhellesoy/cucumber-tmbundle
-[submodule "SCSS.tmbundle"]
-	path = SCSS.tmbundle
-	url = https://github.com/kuroir/SCSS.tmbundle.git
-[submodule "rspec-tmbundle"]
-	path = rspec-tmbundle
+[submodule "Ruby - RSpec.tmbundle"]
+	path = Ruby - RSpec.tmbundle
 	url = https://github.com/rspec/rspec-tmbundle.git
+[submodule "Ruby - SCSS.tmbundle"]
+	path = Ruby - SCSS.tmbundle
+	url = https://github.com/kuroir/SCSS.tmbundle.git
