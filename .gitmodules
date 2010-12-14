@@ -76,3 +76,6 @@
 [submodule "Ruby - SCSS.tmbundle"]
 	path = Ruby - SCSS.tmbundle
 	url = https://github.com/kuroir/SCSS.tmbundle.git
+[submodule "Ruby - C Extensions.tmbundle"]
+	path = Ruby - C Extensions.tmbundle
+	url = git://github.com/drnic/ruby-c-extensions-tmbundle.git
